@@ -1,3 +1,6 @@
+
+Deployment Link:-  https://movie-recommendation-system-cwgevw9f5wm2vdmzn5ln4d.streamlit.app/
+
 🧠 Model Description
 This project is a Content-Based Movie Recommendation System built using the TMDB 5000 Movies Dataset. The system recommends movies similar to a selected title based on metadata such as genres, cast, crew, keywords, and movie overview.
 
